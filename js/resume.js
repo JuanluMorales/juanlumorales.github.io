@@ -1,3 +1,4 @@
+// Check on JQuery to modify functionality 
 (function($) {
   "use strict"; // Start of use strict
 
