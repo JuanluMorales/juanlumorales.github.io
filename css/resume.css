@@ -83,6 +83,11 @@ p.lead {
   color: #124f91;
 }
 
+.max-width-card {
+  max-width: 768px;
+  margin: 0px auto;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
